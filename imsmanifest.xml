@@ -1,0 +1,142 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_62rsEefLp0g_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">FWA 2022</langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="FWA_2022_ORG">
+    <organization identifier="FWA_2022_ORG">
+      <title>FWA 2022</title>
+      <item identifier="MACRA_2020_Overview_SCO" isvisible="true" identifierref="__62rsEefLp0g_course_id_RES">
+        <title>FWA 2022</title>
+        <adlcp:masteryscore>70</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__62rsEefLp0g_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/video_6IQ0FDaSKh2_18_128_960x540.mp4" />
+      <file href="mobile/poster_6gJclM9Cyrr_video_6IQ0FDaSKh2_18_128_960x540.jpg" />
+      <file href="story_content/5X1fTdrufNa_44100_128_0.mp3" />
+      <file href="story_content/video_5kHVDDkLanN_18_128_960x540.mp4" />
+      <file href="mobile/poster_6ZmuJZseUKe_video_5kHVDDkLanN_18_128_960x540.jpg" />
+      <file href="story_content/video_5mMO6a5x7TN_18_128_960x540.mp4" />
+      <file href="mobile/poster_68qmnXW7RRD_video_5mMO6a5x7TN_18_128_960x540.jpg" />
+      <file href="story_content/video_5te9b9h0nv5_18_128_960x540.mp4" />
+      <file href="mobile/poster_5nEE4CLceu8_video_5te9b9h0nv5_18_128_960x540.jpg" />
+      <file href="story_content/video_5rwwSS8SOrT_18_128_960x540.mp4" />
+      <file href="mobile/poster_5caFBWxy2kY_video_5rwwSS8SOrT_18_128_960x540.jpg" />
+      <file href="story_content/video_6H3w6TUGODb_18_128_960x540.mp4" />
+      <file href="mobile/poster_6bs31gSMR2G_video_6H3w6TUGODb_18_128_960x540.jpg" />
+      <file href="story_content/video_6QU8QgQihoA_18_128_960x540.mp4" />
+      <file href="mobile/poster_6SOqi2PX8f7_video_6QU8QgQihoA_18_128_960x540.jpg" />
+      <file href="story_content/video_5mYUjxmgtE1_18_128_960x540.mp4" />
+      <file href="mobile/poster_6m8NBJNLaBE_video_5mYUjxmgtE1_18_128_960x540.jpg" />
+      <file href="mobile/5ti3rgi00js_DX462_DY462_CX363_CY176.png" />
+      <file href="mobile/64QebhKMkLh_DX418_DY418_CX328_CY195.png" />
+      <file href="mobile/6NHOn7Hzfnb_DX412_DY412_CX322_CY169.png" />
+      <file href="mobile/5w13VkWNtCD_DX424_DY424_CX332_CY158.png" />
+      <file href="mobile/5p9OhjSZ8xe_DX428_DY428_CX334_CY166.png" />
+      <file href="mobile/64PlyFw7aEI_DX432_DY432_CX338_CY166.png" />
+      <file href="mobile/6nj3eDm11NY_DX1920_DY1920_CX1509_CY849.png" />
+      <file href="mobile/5xTGskSzioE_DX1920_DY1920_CX1509_CY849.png" />
+      <file href="mobile/6o0fs3sNhu9_DX1920_DY1920_CX1509_CY849.png" />
+      <file href="mobile/5ylYqbU5iRy_DX1920_DY1920_CX1509_CY849.png" />
+      <file href="mobile/6OGwOccfDvE_DX1920_DY1920_CX1509_CY849.png" />
+      <file href="mobile/6ARs8B44TCz_DX1920_DY1920_CX1509_CY849.png" />
+      <file href="mobile/5y4LyF5kDwt_DX1920_DY1920_CX1509_CY849.png" />
+      <file href="mobile/5zvkFyyz8ib_DX1920_DY1920_CX1509_CY849.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/6g9Tx2UW92g.js" />
+      <file href="html5/data/js/6hvzmDsyfaM.js" />
+      <file href="html5/data/js/6FPNlRnT1pG.js" />
+      <file href="html5/data/js/6duOoJdBEsD.js" />
+      <file href="html5/data/js/6TWaM887RLg.js" />
+      <file href="html5/data/js/6GQasD32Aec.js" />
+      <file href="html5/data/js/63ftam37WZR.js" />
+      <file href="html5/data/js/6YFDEf3p78k.js" />
+      <file href="html5/data/js/65RO1BaYMBo.js" />
+      <file href="html5/data/js/6elt6hgXorC.js" />
+      <file href="html5/data/js/5gtPmsrRB0Q.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/data/js/6Tva82nktqG.js" />
+      <file href="html5/data/js/6poT180T5qz.js" />
+      <file href="html5/data/js/6pAlREPvTuG.js" />
+      <file href="html5/data/js/5W8crdgCid4.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/633MjfbwSs4.js" />
+      <file href="html5/data/js/6VDqytvOyjy.js" />
+      <file href="html5/data/js/66xkcAPu23m.js" />
+      <file href="html5/data/js/6ppdvIebbrB.js" />
+      <file href="html5/data/js/6YmjSP9JOX5.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/65nASO195uG.js" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
